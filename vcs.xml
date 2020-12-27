@@ -14,8 +14,12 @@
           <option name="url" value="https://github.com/JinBinPeng/springboot-jwt.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/BUG9/spring-security.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="R:\idea_workspace" />
+    <option name="cloneParentDir" value="R:\git_repository" />
   </component>
 </application>
