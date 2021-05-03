@@ -4,10 +4,9 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="select" type="PLAIN_TEXT" />
-      <mapping pattern="main" type="PLAIN_TEXT" />
       <mapping pattern="master" type="PLAIN_TEXT" />
+      <mapping pattern="main" type="PLAIN_TEXT" />
       <mapping ext="servletcontainerinitializer" type="PLAIN_TEXT" />
-      <mapping ext="scss" type="PLAIN_TEXT" />
       <mapping ext="ymal" type="YAML" />
       <removed_mapping pattern="hitBillList.vue" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="1" approved="true" type="PLAIN_TEXT" />
